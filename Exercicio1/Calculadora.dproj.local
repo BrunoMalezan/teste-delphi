@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/09 08:55:03.000.610,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/09 08:55:25.000.076,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\apk\uPrincipal.dfm=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/04/09 08:55:25.000.076,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\apk\uPrincipal.pas=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/09 08:55:40.000.928,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Calculadora.dproj=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/04/09 10:10:47.000.444,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\apk\uPrincipal.pas=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\apk\PrincipalUnit.pas</Transaction>
+    <Transaction>2019/04/09 10:10:47.000.444,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\apk\uPrincipal.dfm=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\apk\PrincipalUnit.dfm</Transaction>
+    <Transaction>2019/04/09 14:26:18.000.902,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Unit1.pas</Transaction>
+    <Transaction>2019/04/09 14:28:40.000.692,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Unit1.pas=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\controller\PrincipalController.pas</Transaction>
+    <Transaction>2019/04/09 14:28:54.000.626,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Unit1.pas</Transaction>
+    <Transaction>2019/04/09 14:29:19.000.127,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Unit1.pas=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\model\CalculadoraObject.pas</Transaction>
+    <Transaction>2019/04/12 13:31:20.000.765,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Unit1.pas</Transaction>
+    <Transaction>2019/04/12 13:32:07.000.089,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\parameter\ValidacaoParameter.pas=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\Unit1.pas</Transaction>
+    <Transaction>2019/04/12 14:39:11.000.175,C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Theos-Vaga-TESTE\Exercicio1\parameter\ValidacaoParameter.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

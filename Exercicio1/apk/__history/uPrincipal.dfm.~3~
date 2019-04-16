@@ -1,0 +1,245 @@
+object Principal: TPrincipal
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = 'Calculadora'
+  ClientHeight = 215
+  ClientWidth = 322
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlVisor: TPanel
+    Left = 0
+    Top = 0
+    Width = 322
+    Height = 57
+    Align = alTop
+    TabOrder = 0
+    ExplicitWidth = 359
+    object Label1: TLabel
+      Left = 1
+      Top = 1
+      Width = 320
+      Height = 16
+      Align = alTop
+      Caption = 'Label1'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = [fsItalic]
+      ParentFont = False
+      ExplicitWidth = 37
+    end
+    object Label2: TLabel
+      Left = 1
+      Top = 33
+      Width = 320
+      Height = 23
+      Align = alBottom
+      Caption = 'Label2'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -19
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentFont = False
+      ExplicitTop = 23
+      ExplicitWidth = 63
+    end
+    object Label3: TLabel
+      Left = 290
+      Top = 17
+      Width = 31
+      Height = 16
+      Align = alRight
+      Caption = 'Label3'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -11
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      ExplicitLeft = 327
+      ExplicitHeight = 13
+    end
+  end
+  object pnlBody: TPanel
+    Left = 0
+    Top = 57
+    Width = 322
+    Height = 158
+    Align = alClient
+    TabOrder = 1
+    ExplicitLeft = 144
+    ExplicitTop = 184
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object Button1: TButton
+      Left = 1
+      Top = 99
+      Width = 75
+      Height = 25
+      Caption = '1'
+      TabOrder = 0
+    end
+    object Button2: TButton
+      Left = 82
+      Top = 99
+      Width = 75
+      Height = 25
+      Caption = '2'
+      TabOrder = 1
+    end
+    object Button3: TButton
+      Left = 163
+      Top = 99
+      Width = 75
+      Height = 25
+      Caption = '3'
+      TabOrder = 2
+    end
+    object Button4: TButton
+      Left = 244
+      Top = 99
+      Width = 75
+      Height = 25
+      Caption = '+'
+      TabOrder = 3
+    end
+    object Button5: TButton
+      Left = 1
+      Top = 68
+      Width = 75
+      Height = 25
+      Caption = '4'
+      TabOrder = 4
+    end
+    object Button6: TButton
+      Left = 82
+      Top = 68
+      Width = 75
+      Height = 25
+      Caption = '5'
+      TabOrder = 5
+    end
+    object Button7: TButton
+      Left = 163
+      Top = 68
+      Width = 75
+      Height = 25
+      Caption = '6'
+      TabOrder = 6
+    end
+    object Button8: TButton
+      Left = 244
+      Top = 68
+      Width = 75
+      Height = 25
+      Caption = '-'
+      TabOrder = 7
+    end
+    object Button9: TButton
+      Left = 1
+      Top = 37
+      Width = 75
+      Height = 25
+      Caption = '7'
+      TabOrder = 8
+    end
+    object Button10: TButton
+      Left = 82
+      Top = 37
+      Width = 75
+      Height = 25
+      Caption = '8'
+      TabOrder = 9
+    end
+    object Button11: TButton
+      Left = 163
+      Top = 37
+      Width = 75
+      Height = 25
+      Caption = '9'
+      TabOrder = 10
+    end
+    object Button12: TButton
+      Left = 244
+      Top = 37
+      Width = 75
+      Height = 25
+      Caption = 'x'
+      TabOrder = 11
+    end
+    object Button13: TButton
+      Left = 82
+      Top = 130
+      Width = 75
+      Height = 25
+      Caption = '0'
+      TabOrder = 12
+    end
+    object Button14: TButton
+      Left = 244
+      Top = 130
+      Width = 75
+      Height = 25
+      Caption = '='
+      TabOrder = 13
+    end
+    object Button15: TButton
+      Left = 244
+      Top = 6
+      Width = 75
+      Height = 25
+      Caption = '/'
+      TabOrder = 14
+    end
+    object Button16: TButton
+      Left = 1
+      Top = 130
+      Width = 75
+      Height = 25
+      Caption = 'Deletar'
+      TabOrder = 15
+    end
+    object Button17: TButton
+      Left = 163
+      Top = 130
+      Width = 75
+      Height = 25
+      Caption = '.'
+      TabOrder = 16
+    end
+    object Button18: TButton
+      Left = 1
+      Top = 6
+      Width = 75
+      Height = 25
+      Caption = 'Imposto A'
+      TabOrder = 17
+    end
+    object Button19: TButton
+      Left = 82
+      Top = 6
+      Width = 75
+      Height = 25
+      Caption = 'Imposto B'
+      TabOrder = 18
+    end
+    object Button20: TButton
+      Left = 163
+      Top = 6
+      Width = 75
+      Height = 25
+      Caption = 'Imposto B'
+      TabOrder = 19
+    end
+  end
+end
